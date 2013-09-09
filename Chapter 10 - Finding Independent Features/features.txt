@@ -1,0 +1,100 @@
+['rocket', 'russian', 'russia', 'space', 'science']
+(43.35405239124394, u"Rocket crash strains Russia's troubled space program - Christian Science Monitor")
+(3.4286235217343242, u'Russian tycoon Lebedev convicted over televised brawl')
+(2.9253360870916922, u'Russia rocket blast')
+
+['wall', 'missing', 'york', 'woman', 'news']
+(53.79356213353681, u"Remains in wall ID'd as NY woman missing since '85 - Wall Street Journal")
+(4.2188736928085646, u'New York judge rejects sex abuse lawsuits against Elmo puppeteer')
+(2.6073675203018074, u'Living the high life in New York City')
+
+['that', 'would', 'apple', 'iwatch', 'been']
+(10.26392821908442, u"Apple files for 'iWatch' trademark")
+(9.7932982713528745, u'iWatch')
+(8.2809199896129257, u'Kerry optimistic about Mideast peace talks')
+
+['right', 'france', 'over', 'immunity', 'european']
+(21.747577413702523, u'French far-right chief Le Pen loses immunity over racism case')
+(19.246079994344022, u'French far-right chief Le Pen loses immunity')
+(5.5612833969734989, u'Chinese lap up French vineyards')
+
+['zimmerman', 'news', 'martin', 'george', 'trayvon']
+(44.796029929064844, u'Pal testifies that Zimmerman said Martin grabbed his gun - Fox News')
+(14.117723045762771, u"Zimmerman trial judge tells jury to ignore detective's description")
+(13.875691398564072, u"Lead detective returns to stand, says Zimmerman's story remained consistent")
+
+['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+(30.826783219837196, u"Tick tock: Deadline looms for Egypt's Morsy - CNN International")
+(12.653985018146365, u'Q&A: Egypt on the brink')
+(11.790460006113827, u'Egypt protesters mass before military deadline')
+
+['world', 'girls', 'education', 'make', 'help']
+(24.270174877267195, u'Impact Your World: How to help')
+(9.7299522766836581, u"Malala's voice stronger, not silenced")
+(9.262517923677045, u"Girls, it's time to power the world")
+
+['obama', 'bush', 'africa', 'president', 'barack']
+(30.686626796125854, u"Michelle Obama: being first lady 'the best job in the world' - Telegraph.co.uk")
+(17.298880096541264, u'Obama, Bush brought together in Africa at embassy bomb memorial')
+(16.658226846836875, u'Obama ends Africa trip by joining Bush at memorial')
+
+['have', 'vatican', 'bank', 'arrested', 'been']
+(11.994057296188208, u'Vatican official arrested')
+(9.4036574632318217, u'Your solstice traditions')
+(8.7677480541539623, u'Reports: Prosecutors wrap up probe of Vatican bank')
+
+['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+(18.878505722490541, u'Unmanned Russian rocket explodes after liftoff')
+(18.288230468642848, u'Russian rocket explodes after liftoff')
+(16.197226107539556, u'Watch rocket break up after liftoff')
+
+['brother', 'udall', 'mark', 'missing', 'wyoming']
+(48.774911194468245, u"Sen. Mark Udall's brother Randy missing - New York Daily News")
+(13.037986256285359, u'Brother of Senator Mark Udall missing in Wyoming')
+(12.287508703813399, u'Brother of Colorado Sen. Mark Udall missing in Rocky Mountains')
+
+['snowden', 'asylum', 'edward', 'russia', 'request']
+(29.309593462398528, u'Rafael Correa: we helped Snowden by mistake - The Guardian')
+(11.273364432117088, u"Is Venezuela Snowden's last resort? Leaker running out of options as Russia asylum bid fizzles")
+(11.026782135128089, u"Snowden's asylum options dwindle")
+
+['from', 'cirque', 'show', 'vegas', 'during']
+(12.638425960936559, u'Investigators probe Cirque du Soleil death in Las Vegas')
+(11.049699201784604, u'Cirque performer killed at show')
+(10.057580921095829, u"'Cirque' death")
+
+['their', 'chinese', 'china', 'country', 'much']
+(13.905194281880718, u'Chinese astronauts return to Earth')
+(10.267899588197805, u'Chinese lap up French vineyards')
+(7.8371288906929655, u'Oceans: Eco-victim or savior?')
+
+['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+(38.155318046247011, u"Dozens charged in Ga. Alzheimer's home abuse case - Montana Standard")
+(7.6385445260266218, u'Dozens convicted of plotting to overthrow UAE government')
+(5.9915266303390862, u'69 convicted in UAE overthrow plot')
+
+['tuesday', 'government', 'reuters', 'minister', 'convicted']
+(15.050093395277715, u'Dozens convicted of plotting to overthrow UAE government')
+(12.937950260662069, u'69 convicted in UAE overthrow plot')
+(10.233484177910888, u'Portugal PM to address nation after another minister quit')
+
+['police', 'said', 'kabul', 'tuesday', 'attack']
+(15.849668607021567, u'Taliban attack on supply base in Afghan capital kills six')
+(13.856137310645623, u"Taliban attack NATO supplier's compound, kill 7")
+(13.782429567337374, u'Militants Attack NATO Compound in Kabul')
+
+['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+(30.6220384401418, u'Gabrielle Giffords kicks off gun control campaign by shooting at firing range - CBS News')
+(26.207435917577836, u'Town grieves Ariz. Hotshots; storms threaten fire - Atlanta Journal Constitution')
+(5.221633514167026, u'Ariz. Hotshots included jokesters, fathers-to-be')
+
+['with', 'bulger', 'boston', 'former', 'whitey']
+(12.596108260750201, u"Former drug dealer says Bulger's name taboo on the street")
+(9.0372460317685253, u"Ex-FBI agent apologizes to victims at 'Whitey' Bulger trial")
+(8.9262924488395576, u'Illinois ends fiscal year 2013 with $6.1 billion bill backlog: comptroller')
+
+['moscow', 'about', 'snowden', 'former', 'edward']
+(26.091658632611328, u'Snowden threatens new U.S. leaks, asks numerous countries for asylum')
+(24.670398955125517, u'Edward Snowden threatens new U.S. leaks, applies for Russian asylum')
+(8.5000447688976504, u"Fugitive Snowden's options narrow as asylum requests spurned")
+

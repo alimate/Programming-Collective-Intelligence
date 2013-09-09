@@ -1,0 +1,1835 @@
+Billionaire Saudi prince branded 'capricious' in UK court
+3.39499389312 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+2.54614437508 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.802345847143 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+South African police investigating Mandela grandson in grave dispute
+12.0777189747 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.746249348091 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.68348322398 ['right', 'france', 'over', 'immunity', 'european']
+
+Obama administration sanctions Myanmar general for dealings with North Korea
+5.50297238497 ['obama', 'bush', 'africa', 'president', 'barack']
+3.67171004629 ['from', 'cirque', 'show', 'vegas', 'during']
+3.1239082645 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Merkel opponent derides jobless summit as cynical ploy
+2.53986236875 ['right', 'france', 'over', 'immunity', 'european']
+2.36734809484 ['police', 'said', 'kabul', 'tuesday', 'attack']
+2.17990675088 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Exclusive: Egypt army plan would scrap constitution, parliament - sources
+10.549265059 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+1.60566991283 ['right', 'france', 'over', 'immunity', 'european']
+1.16101462827 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Fugitive Snowden's options narrow as asylum requests spurned
+8.5000447689 ['moscow', 'about', 'snowden', 'former', 'edward']
+7.75535017211 ['snowden', 'asylum', 'edward', 'russia', 'request']
+2.23015417014 ['world', 'girls', 'education', 'make', 'help']
+
+Turkish Jews worried after politician links diaspora to protests
+5.79898896384 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.67122115341 ['world', 'girls', 'education', 'make', 'help']
+3.62056205682 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Trucks pile up at border of new EU member Croatia
+3.75416693777 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.77426083178 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.64399354822 ['right', 'france', 'over', 'immunity', 'european']
+
+Demand for big pickup trucks fuels June U.S. auto sales
+3.96855183243 ['that', 'would', 'apple', 'iwatch', 'been']
+1.1352928901 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.01505965003 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Insight: Smooth Qatar handover rooted in turbulent past of 'Father Emir'
+4.14941907821 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.20796329228 ['world', 'girls', 'education', 'make', 'help']
+0.86185677435 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Egypt on the edge after Mursi rebuffs army ultimatum
+10.6846473046 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+4.16426206215 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+2.25778371617 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Syrian rebels threaten to target Shi'ite villages in Aleppo
+3.41245383154 ['that', 'would', 'apple', 'iwatch', 'been']
+1.187191012 ['obama', 'bush', 'africa', 'president', 'barack']
+1.06404103601 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Firefighters look for weather break in deadly Arizona wildfire
+5.90619898578 ['their', 'chinese', 'china', 'country', 'much']
+3.44076790208 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+2.66346385747 ['that', 'would', 'apple', 'iwatch', 'been']
+
+U.S., Russia remove potential atom bomb material from Vietnam
+8.04182122307 ['from', 'cirque', 'show', 'vegas', 'during']
+3.93062680983 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.702787604 ['that', 'would', 'apple', 'iwatch', 'been']
+
+French far-right chief Le Pen loses immunity over racism case
+21.7475774137 ['right', 'france', 'over', 'immunity', 'european']
+0.753789961007 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+0.0128440420499 ['rocket', 'russian', 'russia', 'space', 'science']
+
+French political scandals hit left and right
+6.59932177082 ['that', 'would', 'apple', 'iwatch', 'been']
+4.3045162103 ['right', 'france', 'over', 'immunity', 'european']
+0.917319211774 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Exclusive: Iran importing missile-grade ore from Germany, France
+7.53433055176 ['from', 'cirque', 'show', 'vegas', 'during']
+4.88791393293 ['right', 'france', 'over', 'immunity', 'european']
+2.68612699414 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Japan two-party politics in doubt as drubbing of Democrats looms
+5.83697305365 ['that', 'would', 'apple', 'iwatch', 'been']
+2.11866579847 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.50656044591 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Accused Fort Hood shooter to enter plea at pre-trial hearing in Texas
+5.9085134112 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.20407506121 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.975734610988 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Obama, Bush brought together in Africa at embassy bomb memorial
+17.2988800965 ['obama', 'bush', 'africa', 'president', 'barack']
+3.1061787956 ['that', 'would', 'apple', 'iwatch', 'been']
+2.1373425712 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+UAE jails 61 Islamists in coup plot trial, rights groups protest
+8.49449579112 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.33387422198 ['from', 'cirque', 'show', 'vegas', 'during']
+3.187600906 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Snowden threatens new U.S. leaks, asks numerous countries for asylum
+26.0916586326 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.90330096552 ['obama', 'bush', 'africa', 'president', 'barack']
+0.846315780792 ['right', 'france', 'over', 'immunity', 'european']
+
+South Africa's Mandela still 'critical but stable'
+4.95885975854 ['police', 'said', 'kabul', 'tuesday', 'attack']
+3.36801151732 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.95129926807 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Taliban attack on supply base in Afghan capital kills six
+15.849668607 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.506391883779 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.279756495828 ['right', 'france', 'over', 'immunity', 'european']
+
+Suicide bomber kills 22 in Iraqi Shi'ite mosque
+7.49680806435 ['police', 'said', 'kabul', 'tuesday', 'attack']
+2.02111567057 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.522685933576 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Zimmerman trial judge tells jury to ignore detective's description
+14.1177230458 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+4.30153875054 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+2.74774381711 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+U.S. approves a second horse slaughterhouse, but renews bid for ban
+3.97588978886 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.67765256051 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.04895227739 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Jury deadlocks in London fund manager's fraud trial
+6.791829285 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+2.5208293682 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.953229537561 ['wall', 'missing', 'york', 'woman', 'news']
+
+Ex-drug dealer says Bulger inspired fear on Boston streets
+8.68964123216 ['with', 'bulger', 'boston', 'former', 'whitey']
+8.00265521458 ['from', 'cirque', 'show', 'vegas', 'during']
+2.56110287658 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Documents show Milwaukee archdiocese shielded pedophile priests
+6.79530355964 ['from', 'cirque', 'show', 'vegas', 'during']
+1.12153863625 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+0.688757367239 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Investigators probe Cirque du Soleil death in Las Vegas
+12.6384259609 ['from', 'cirque', 'show', 'vegas', 'during']
+1.55441565457 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.270396807624 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+San Francisco area rail strike causes traffic nightmare
+4.51704228423 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.46795550083 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.92799245942 ['wall', 'missing', 'york', 'woman', 'news']
+
+Brother of Senator Mark Udall missing in Wyoming
+13.0379862563 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+3.99148200169 ['from', 'cirque', 'show', 'vegas', 'during']
+2.08743813209 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Jurors hear Zimmerman's account of killing Trayvon Martin
+10.3848349785 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+2.1831562297 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.96032331067 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Deadly fire engulfed 19 Arizona firefighters in seconds
+3.10285287335 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+1.98900135308 ['their', 'chinese', 'china', 'country', 'much']
+1.6263417233 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Opponents of Texas abortion restrictions rally at Capitol
+2.32736002113 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.72019828815 ['from', 'cirque', 'show', 'vegas', 'during']
+1.52032549461 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Edward Snowden threatens new U.S. leaks, applies for Russian asylum
+24.6703989551 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.98111335806 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.846816910876 ['wall', 'missing', 'york', 'woman', 'news']
+
+Two government cooperators avoid jail in insider trading cases
+5.35413402731 ['moscow', 'about', 'snowden', 'former', 'edward']
+4.83660128614 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.787288245619 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+San Diego jury acquits sidewalk graffiti protester of vandalism charges
+7.45394480261 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.59483710659 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+1.52999211971 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Obama says EU, all intelligence agencies seek info on each other
+8.82680592764 ['obama', 'bush', 'africa', 'president', 'barack']
+4.29698200751 ['right', 'france', 'over', 'immunity', 'european']
+2.13615006723 ['world', 'girls', 'education', 'make', 'help']
+
+New York judge rejects sex abuse lawsuits against Elmo puppeteer
+4.21887369281 ['wall', 'missing', 'york', 'woman', 'news']
+2.15773559282 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+1.6447739251 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Former drug dealer says Bulger's name taboo on the street
+12.5961082608 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.07017582125 ['that', 'would', 'apple', 'iwatch', 'been']
+3.00934151385 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Illinois ends fiscal year 2013 with $6.1 billion bill backlog: comptroller
+8.92629244884 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.81008875031 ['that', 'would', 'apple', 'iwatch', 'been']
+1.17986078051 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Ex-FBI agent apologizes to victims at 'Whitey' Bulger trial
+9.03724603177 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.38321717414 ['that', 'would', 'apple', 'iwatch', 'been']
+2.2049854444 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Portugal PM to address nation after another minister quit
+10.2334841779 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+2.95636156207 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.685927423538 ['world', 'girls', 'education', 'make', 'help']
+
+Russian tycoon Lebedev avoids jail over TV brawl
+5.62482112048 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.69225335659 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+2.8308774916 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+French far-right chief Le Pen loses immunity
+19.2460799943 ['right', 'france', 'over', 'immunity', 'european']
+0.000402207401706 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.14992968398e-05 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Somali central bank governor denies U.N. charges over funds
+3.5564334328 ['from', 'cirque', 'show', 'vegas', 'during']
+2.853223967 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+2.85000418645 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Princess Fawzia, Shah's first wife, dies in Egypt
+5.77656088661 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+4.78782038412 ['police', 'said', 'kabul', 'tuesday', 'attack']
+4.04965765212 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+UAE Islamist group had no desire to topple government: families
+5.19753672273 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.63123779174 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.1648754039 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Protesters angered by rape, storm police HQ in Ukrainian town
+10.7327871376 ['police', 'said', 'kabul', 'tuesday', 'attack']
+3.54287391486 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.07124873365 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Indonesia assembly bill raises fears of crackdown on freedoms
+4.93024056439 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.31914782059 ['that', 'would', 'apple', 'iwatch', 'been']
+1.4536288979 ['right', 'france', 'over', 'immunity', 'european']
+
+Czech PM Rusnok expects cabinet appointed next Wednesday
+3.75699408711 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+2.39266724777 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.67854167536 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Guinea opposition resume election talks with government
+6.92546957827 ['with', 'bulger', 'boston', 'former', 'whitey']
+6.00277072867 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.66015058828 ['their', 'chinese', 'china', 'country', 'much']
+
+Russian tycoon Lebedev convicted over televised brawl
+8.75405217628 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+3.42862352173 ['rocket', 'russian', 'russia', 'space', 'science']
+2.95555400054 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Egypt protesters mass before military deadline
+11.7904600061 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+7.5967953418 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.460715889852 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Town grieves Ariz. Hotshots; storms threaten fire
+4.96914880094 ['their', 'chinese', 'china', 'country', 'much']
+4.50476494726 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+4.31076789719e-07 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Ariz. Hotshots included jokesters, fathers-to-be
+7.006390631 ['their', 'chinese', 'china', 'country', 'much']
+5.22163351417 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+0.69588431691 ['obama', 'bush', 'africa', 'president', 'barack']
+
+In 'golden age' of surveillance, US has big edge
+3.40635823661 ['snowden', 'asylum', 'edward', 'russia', 'request']
+1.42515435621 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.591082133705 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+AP IMPACT: More air passengers show up with guns
+6.49407993565 ['with', 'bulger', 'boston', 'former', 'whitey']
+4.73930876314 ['their', 'chinese', 'china', 'country', 'much']
+0.413538193056 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+Drug overdose deaths spike among middle-aged women
+4.68028621981 ['their', 'chinese', 'china', 'country', 'much']
+3.09813191929 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.289969808156 ['wall', 'missing', 'york', 'woman', 'news']
+
+Arizona Hotshots lived the meaning of the word
+2.90165797576 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+2.50880066264 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.56503769751 ['their', 'chinese', 'china', 'country', 'much']
+
+Snowden hits hurdles in search for asylum
+7.12058640164 ['snowden', 'asylum', 'edward', 'russia', 'request']
+4.65905711652 ['moscow', 'about', 'snowden', 'former', 'edward']
+2.76367929361 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Taliban attack NATO supplier's compound, kill 7
+13.8561373106 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.000554028127084 ['world', 'girls', 'education', 'make', 'help']
+0.000103695111462 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Hungary's Orban clashes with EU parliament
+6.76599263573 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.45175483222 ['right', 'france', 'over', 'immunity', 'european']
+0.553779866403 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Brazil protesters give Rousseff tenuous truce
+3.26011450803 ['from', 'cirque', 'show', 'vegas', 'during']
+2.2261294916 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.531393299325 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+House Dems seek path to final immigration deal
+3.85416398609 ['their', 'chinese', 'china', 'country', 'much']
+0.836391184634 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.592111490029 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Changes urged after 5 near airline collisions
+3.81561022876 ['that', 'would', 'apple', 'iwatch', 'been']
+1.85626795551 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.50839698516 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Obama ends Africa trip by joining Bush at memorial
+16.6582268468 ['obama', 'bush', 'africa', 'president', 'barack']
+2.22711250156 ['from', 'cirque', 'show', 'vegas', 'during']
+0.91543179342 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+What's a little spying among friends?
+4.53546703602 ['obama', 'bush', 'africa', 'president', 'barack']
+3.03692403959 ['that', 'would', 'apple', 'iwatch', 'been']
+2.16110538914 ['right', 'france', 'over', 'immunity', 'european']
+
+Women Hit Hard in Rising Toll From Painkiller Overdoses
+3.53259772136 ['from', 'cirque', 'show', 'vegas', 'during']
+1.27409547813 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.726739383427 ['wall', 'missing', 'york', 'woman', 'news']
+
+City Room: New York Today: Monsoon Season
+2.45103828241 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.72502478614 ['world', 'girls', 'education', 'make', 'help']
+1.448539223 ['wall', 'missing', 'york', 'woman', 'news']
+
+Asylum Options Narrow Further for Snowden
+8.8213727777 ['snowden', 'asylum', 'edward', 'russia', 'request']
+1.07482096223 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.00679032337788 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+China Increases Security in Restive Region
+3.57116087613 ['that', 'would', 'apple', 'iwatch', 'been']
+1.88452130982 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.47746922173 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Russian Rocket Crashes in Kazakhstan
+7.97432620217 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+2.36927617762 ['rocket', 'russian', 'russia', 'space', 'science']
+2.47130687093e-07 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Foreign Minister Quits as Egypt Braces for Further Protests
+8.66067513008 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+3.32723287685 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.473612889009 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+DealBook Column: The Essential Wall St. Summer Reading List
+1.67751834331 ['world', 'girls', 'education', 'make', 'help']
+1.3495230268 ['wall', 'missing', 'york', 'woman', 'news']
+0.359337290869 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Listening Post: Obama Seeks to Reassert U.S. Role in Climate Debate
+7.0139248884 ['obama', 'bush', 'africa', 'president', 'barack']
+3.40308912847 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.90274236273 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+Suicide Attack at Afghan Base Kills at Least 9
+5.48471440619 ['police', 'said', 'kabul', 'tuesday', 'attack']
+3.62537022264 ['their', 'chinese', 'china', 'country', 'much']
+3.15253112196 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Young Activists Rouse Egypt Protests but Leave Next Steps to Public
+8.53223362205 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+4.85501682099 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.07162353734 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Obama Appears With Bush at Site of Tanzania Terror Blast
+12.6768606269 ['obama', 'bush', 'africa', 'president', 'barack']
+2.80098437751 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.193260560374 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+Manhattan Apartment Sales Increase Despite Reduced Inventory
+1.40611365459 ['right', 'france', 'over', 'immunity', 'european']
+0.587690219996 ['rocket', 'russian', 'russia', 'space', 'science']
+0.0328119260537 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Economix Blog: Zero-Based Tax Reform
+3.44323259355 ['their', 'chinese', 'china', 'country', 'much']
+2.98420333463 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.34599499048 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Art Groups Fear Losing a Mayor, and His Money
+3.5427230762 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.45447161732 ['their', 'chinese', 'china', 'country', 'much']
+3.09652876024 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Militants Attack NATO Compound in Kabul
+13.7824295673 ['police', 'said', 'kabul', 'tuesday', 'attack']
+3.14379703712 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.0713811466733 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+For Many in Africa, Lack of Electricity Is Barrier to Growth
+5.01954316558 ['obama', 'bush', 'africa', 'president', 'barack']
+4.30067001225 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.359261194509 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Chaos in Middle East Grows as the U.S. Focuses on Israel
+2.16200519841 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.77463206306 ['their', 'chinese', 'china', 'country', 'much']
+1.41421057861 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Panel to Review Up to 50 Trial Convictions Involving a Discredited Detective
+1.84397197802 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.72473363678 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+1.64336633006 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+G.O.P. Groups Offering Cover for Lawmakers on Immigration
+5.91593359244 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.232753035816 ['from', 'cirque', 'show', 'vegas', 'during']
+0.187773551758 ['rocket', 'russian', 'russia', 'space', 'science']
+
+DealBook: Winklevoss Twins Plan First Fund for Bitcoins
+1.79025462419 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.72349646738 ['world', 'girls', 'education', 'make', 'help']
+0.399065487022 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+DealBook: As Bond Market Tumbles, Pimco Seeks to Reassure Investors
+4.27149239045 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.57033411514 ['world', 'girls', 'education', 'make', 'help']
+0.21623424793 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+Loan Practices of China’s Banks Raising Concern
+4.70854387625 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.06955189467 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.01707481879 ['their', 'chinese', 'china', 'country', 'much']
+
+Paying Till It Hurts: American Way of Birth, Costliest in the World
+4.14406317751 ['their', 'chinese', 'china', 'country', 'much']
+3.34035916892 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.04196065712 ['that', 'would', 'apple', 'iwatch', 'been']
+
+DealBook: Tribune to Buy 19 TV Stations Amid Groundswell of Consolidation
+2.84979432621 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.412608297075 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.353876160978 ['that', 'would', 'apple', 'iwatch', 'been']
+
+With Fewer Stars at Yankee Stadium, Fewer Fans Are Watching
+4.12245010177 ['their', 'chinese', 'china', 'country', 'much']
+3.09527383526 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.434321703136 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Palestinian Killed by Israeli Forces
+1.36664219032 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.08260433309 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.4851191003 ['from', 'cirque', 'show', 'vegas', 'during']
+
+The Lede: Latest Updates on Egypt’s Political Crisis
+8.80182988836 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+0.892971493961 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.874204459385 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Afghan Donors Want Human Rights Panel Reconsidered
+3.23249532724 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.02953419914 ['that', 'would', 'apple', 'iwatch', 'been']
+0.966215133164 ['obama', 'bush', 'africa', 'president', 'barack']
+
+India Ink: Image of the Day: July 2
+0.595008679322 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.492735232423 ['from', 'cirque', 'show', 'vegas', 'during']
+0.34648663405 ['world', 'girls', 'education', 'make', 'help']
+
+Critics Question Karzai Choices for Human Rights Panel
+1.2300877415 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.93709448477 ['obama', 'bush', 'africa', 'president', 'barack']
+0.91678818807 ['wall', 'missing', 'york', 'woman', 'news']
+
+The Lede: Egyptians React to Army’s Ultimatum
+7.18809988897 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+3.92201971309 ['from', 'cirque', 'show', 'vegas', 'during']
+0.311856458602 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Former South African President De Klerk Hospitalized
+3.68436752725 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.52349050556 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.37510973714 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+India Ink: India Denies Asylum to Snowden
+7.46246077272 ['snowden', 'asylum', 'edward', 'russia', 'request']
+2.95926344446 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.161402972981 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Kerry, Meeting With Russian Counterpart, Seeks Syria Talks Soon
+3.9501820966 ['their', 'chinese', 'china', 'country', 'much']
+3.20065848003 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.19711999517 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+South Korean Executive’s Arrest Seen as Move to Tame Conglomerates
+2.21734091 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.14655171401 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.507914039265 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+India Ink: Why Does the Rashtriya Swayamsevak Sangh Resent Cricket?
+2.2032902757 ['right', 'france', 'over', 'immunity', 'european']
+0.194647189166 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.127461285768 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+World Briefing | Europe: Italy: 2 Top Managers at Vatican Bank Step Down
+5.06759026392 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.75875218882 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.25403105544 ['world', 'girls', 'education', 'make', 'help']
+
+World Briefing | Asia: Hong Kong: Protesters Press Beijing for Changes
+3.62209021943 ['their', 'chinese', 'china', 'country', 'much']
+2.67466915279 ['world', 'girls', 'education', 'make', 'help']
+0.743519761861 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+World Briefing | Middle East: Iraq: Attacks North of Baghdad Kill at Least 25 People
+5.13609186759 ['their', 'chinese', 'china', 'country', 'much']
+2.79392710409 ['from', 'cirque', 'show', 'vegas', 'during']
+2.68227351741 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Tick tock: Deadline looms for Egypt's Morsy - CNN International
+30.8267832198 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+3.25661846435 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+1.31868755497 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Pal testifies that Zimmerman said Martin grabbed his gun - Fox News
+44.7960299291 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+2.52967620748 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+2.2428036344 ['wall', 'missing', 'york', 'woman', 'news']
+
+Rafael Correa: we helped Snowden by mistake - The Guardian
+29.3095934624 ['snowden', 'asylum', 'edward', 'russia', 'request']
+2.64814949146 ['rocket', 'russian', 'russia', 'space', 'science']
+2.0200098352 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Town grieves Ariz. Hotshots; storms threaten fire - Atlanta Journal Constitution
+26.2074359176 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+0.805698910698 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.620795538875 ['world', 'girls', 'education', 'make', 'help']
+
+Gabrielle Giffords kicks off gun control campaign by shooting at firing range - CBS News
+30.6220384401 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+3.67008982782 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.80689394367 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Remains in wall ID'd as NY woman missing since '85 - Wall Street Journal
+53.7935621335 ['wall', 'missing', 'york', 'woman', 'news']
+0.255942996169 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+0.212339079413 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+Michelle Obama: being first lady 'the best job in the world' - Telegraph.co.uk
+30.6866267961 ['obama', 'bush', 'africa', 'president', 'barack']
+3.67990624743 ['world', 'girls', 'education', 'make', 'help']
+2.54027875101 ['their', 'chinese', 'china', 'country', 'much']
+
+Sen. Mark Udall's brother Randy missing - New York Daily News
+48.7749111945 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+1.39965411128 ['wall', 'missing', 'york', 'woman', 'news']
+0.727512736366 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+Rocket crash strains Russia's troubled space program - Christian Science Monitor
+43.3540523912 ['rocket', 'russian', 'russia', 'space', 'science']
+1.06210818658 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.0411395198838 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Dozens charged in Ga. Alzheimer's home abuse case - Montana Standard
+38.1553180462 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+0.232538028096 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.177510691582 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+“Whistle-blower” now means “homegrown terrorist”
+3.06051156775 ['from', 'cirque', 'show', 'vegas', 'during']
+0.395348926284 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.357032904474 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+LeVar Burton explains how not to be killed by police
+2.68205466924 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.542739644552 ['their', 'chinese', 'china', 'country', 'much']
+0.515054094811 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Meet the Wendy Davis truthers
+0.725299197992 ['wall', 'missing', 'york', 'woman', 'news']
+0.582194489116 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.567429902144 ['their', 'chinese', 'china', 'country', 'much']
+
+Why is “sensible” Jeb Bush fundraising for nutty Paul LePage?
+2.32987165074 ['obama', 'bush', 'africa', 'president', 'barack']
+1.32638221857 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.417595008729 ['that', 'would', 'apple', 'iwatch', 'been']
+
+On fake reality show “Siberia,” the biggest villain might be the camera
+2.01042722136 ['from', 'cirque', 'show', 'vegas', 'during']
+0.322231101464 ['their', 'chinese', 'china', 'country', 'much']
+0.0877866992173 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Watch Bill O’Reilly freak out over the gay marriage rulings
+1.54355185563 ['right', 'france', 'over', 'immunity', 'european']
+0.528342505543 ['rocket', 'russian', 'russia', 'space', 'science']
+0.487930004355 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+13 facts about tax-dodging corporations that will blow your mind
+3.14578481629 ['that', 'would', 'apple', 'iwatch', 'been']
+1.45410826133 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.14121232687 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+How epic GOP bumbling could inadvertently save food stamps
+0.654759212242 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.376242307576 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.303846727437 ['their', 'chinese', 'china', 'country', 'much']
+
+Who deserves a new lung?
+1.43064390197 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+0.504584027093 ['world', 'girls', 'education', 'make', 'help']
+0.154337947905 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Christian leaders have always been misogynists
+6.40765885131 ['from', 'cirque', 'show', 'vegas', 'during']
+4.75047803256 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.728506069941 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Lou Reed is a big fan of “Yeezus”
+0.325984673894 ['their', 'chinese', 'china', 'country', 'much']
+0.316189177562 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.239538032121 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Federal judge approves challenge to Michigan ban on gay marriage
+0.66311566192 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.579152315019 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.325712808186 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+BET apologizes to blogger for asking him to tone down feminine look
+1.80743425309 ['from', 'cirque', 'show', 'vegas', 'during']
+0.437095914266 ['their', 'chinese', 'china', 'country', 'much']
+0.222761416803 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Five states see new antiabortion laws go into effect
+1.32641624496 ['their', 'chinese', 'china', 'country', 'much']
+0.53679974592 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.367419711578 ['world', 'girls', 'education', 'make', 'help']
+
+Romney voted against presidential run in family poll
+0.793201052347 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.760630780684 ['their', 'chinese', 'china', 'country', 'much']
+0.740006834341 ['world', 'girls', 'education', 'make', 'help']
+
+David Petraeus can’t lose (unless he goes to jail)!
+3.34674271167 ['from', 'cirque', 'show', 'vegas', 'during']
+1.76633595668 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.836651235797 ['world', 'girls', 'education', 'make', 'help']
+
+DHS will begin reviewing visas for binational same-sex couples
+0.880001806503 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.610263662772 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.39673237864 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+NBC announces sequel to “The Bible” miniseries
+0.618612827416 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.152953215264 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.115552531214 ['world', 'girls', 'education', 'make', 'help']
+
+Egyptian protestors gather before military deadline
+5.01699759808 ['have', 'vatican', 'bank', 'arrested', 'been']
+1.77559730632 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.56070534071 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Gay and lesbian couples flock to California courts to wed
+2.67068846694 ['right', 'france', 'over', 'immunity', 'european']
+1.17573208908 ['rocket', 'russian', 'russia', 'space', 'science']
+0.430776716018 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Economic inequality was created
+0.908091627053 ['wall', 'missing', 'york', 'woman', 'news']
+0.877140257911 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.500729774317 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Will Fox News change with America?
+3.10357811736 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.94412948388 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.31046054072 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Where are the young Democrats?
+4.2744331609 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.10862215815 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.77216183732 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Justices Antonin Scalia and Elena Kagan hunt together
+0.9744485122 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.934190665316 ['obama', 'bush', 'africa', 'president', 'barack']
+0.500021789391 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Edward Snowden has nowhere to go
+4.56967438392 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.813151984065 ['moscow', 'about', 'snowden', 'former', 'edward']
+4.0532788919e-58 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Lead detective returns to stand, says Zimmerman's story remained consistent
+13.8756913986 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+2.33351347317 ['police', 'said', 'kabul', 'tuesday', 'attack']
+2.16229585096 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Caribbean airline gets 'hilarious' complaint letter that catches eye of Richard Branson
+3.12135106739 ['that', 'would', 'apple', 'iwatch', 'been']
+0.376732182351 ['world', 'girls', 'education', 'make', 'help']
+0.288470046871 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Pierce Brosnan's daughter dies from same cancer that took his wife
+4.2461053968 ['from', 'cirque', 'show', 'vegas', 'during']
+3.0468178796 ['that', 'would', 'apple', 'iwatch', 'been']
+0.556621598493 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Oh, deer: Did Indiana cop give gun to stranger to put injured animal out of misery?
+0.621635719839 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.397327543666 ['from', 'cirque', 'show', 'vegas', 'during']
+0.32823756316 ['world', 'girls', 'education', 'make', 'help']
+
+Centuries-old rockfish believed to have been caught off Alaska's coast
+5.1375599721 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.201281084232 ['that', 'would', 'apple', 'iwatch', 'been']
+0.166099590346 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Ohio police department sparks controversy with fake drug checkpoints
+3.74824881172 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.56401610062 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.437405845736 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Amy's Baking Company makes employees sign 20-item contract
+0.730861602685 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.355876683396 ['from', 'cirque', 'show', 'vegas', 'during']
+0.330562593234 ['world', 'girls', 'education', 'make', 'help']
+
+Is Venezuela Snowden's last resort? Leaker running out of options as Russia asylum bid fizzles
+11.2733644321 ['snowden', 'asylum', 'edward', 'russia', 'request']
+3.20298043452 ['that', 'would', 'apple', 'iwatch', 'been']
+1.07448576037 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+California police officer seen in video shooting dog who lunged during master's arrest
+4.67239619754 ['police', 'said', 'kabul', 'tuesday', 'attack']
+3.34736075806 ['that', 'would', 'apple', 'iwatch', 'been']
+0.685639531196 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Pennsylvania spa owner fired woman for refusing wax, lawsuit alleges
+1.05676712871 ['wall', 'missing', 'york', 'woman', 'news']
+0.944608180213 ['right', 'france', 'over', 'immunity', 'european']
+0.73820615185 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Apple iPhone 5S rumor suggests LTE advanced with double 4G speeds
+3.58489459142 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.476080842887 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.344493773218 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Body of girl found wrapped in tarp in middle of Texas intersection
+2.26843200657 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.94204960757 ['wall', 'missing', 'york', 'woman', 'news']
+1.49428351142 ['world', 'girls', 'education', 'make', 'help']
+
+Doctor pleads in malnourished Ohio teen's death
+1.69976126388 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+1.64771136275 ['world', 'girls', 'education', 'make', 'help']
+1.46899913687 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Calif. police kill dog in videotaped shooting
+4.53761618492 ['police', 'said', 'kabul', 'tuesday', 'attack']
+3.11665792877 ['that', 'would', 'apple', 'iwatch', 'been']
+0.359545909664 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Suspect arrested in nanny cam beating case pleads not guilty
+4.46799812449 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+3.0497356078 ['that', 'would', 'apple', 'iwatch', 'been']
+0.267009932689 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Mass. DA seeks public's help in Hernandez case
+3.85887470957 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+2.92617645533 ['that', 'would', 'apple', 'iwatch', 'been']
+2.40842428896 ['world', 'girls', 'education', 'make', 'help']
+
+US factory orders rise 2.1 percent in May
+0.314244428625 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.159889026632 ['their', 'chinese', 'china', 'country', 'much']
+0.101285651538 ['from', 'cirque', 'show', 'vegas', 'during']
+
+SF Bay area transit strike snarls commute again
+0.633572059342 ['rocket', 'russian', 'russia', 'space', 'science']
+0.433368874693 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.271804513592 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+University at Buffalo charged pro-life student group $650 in 'unconstitutional fees,' lawsuit alleges
+3.26103674798 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+1.71129197966 ['their', 'chinese', 'china', 'country', 'much']
+0.848370540524 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Curfew considered after 400 teens in North Carolina street fight
+4.48620992595 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+3.43335296098 ['that', 'would', 'apple', 'iwatch', 'been']
+1.48214225402 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Aaron Hernandez moved to new cell, called a model inmate
+6.08364932919 ['have', 'vatican', 'bank', 'arrested', 'been']
+4.2236561074 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.18883193614 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Portugal gov't in peril as another minister quits
+9.45918478704 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+2.84362323296 ['right', 'france', 'over', 'immunity', 'european']
+0.800508018374 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+Officials: Bombs, clashes kill at least 10 in Iraq
+5.88093201406 ['police', 'said', 'kabul', 'tuesday', 'attack']
+4.75166614273 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.443924708906 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Pro-US hacker 'The Jester' takes aim at nations helping Snowden
+6.99016523582 ['snowden', 'asylum', 'edward', 'russia', 'request']
+2.71501683504 ['that', 'would', 'apple', 'iwatch', 'been']
+0.419883100282 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Four women in South Africa brothel allegedly used chickens' stench to cover up smell of drugs
+6.19149473595 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.95247573836 ['obama', 'bush', 'africa', 'president', 'barack']
+0.767968886848 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Portugal foreign minister resigns
+7.74381770054 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.31252365906 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.422163150857 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Reports: Prosecutors wrap up probe of Vatican bank
+8.76774805415 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.80645155893 ['their', 'chinese', 'china', 'country', 'much']
+1.08146227435 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+At least 15 killed in Baghdad blasts
+6.60876808476 ['police', 'said', 'kabul', 'tuesday', 'attack']
+2.21363162128 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+1.06539962482 ['their', 'chinese', 'china', 'country', 'much']
+
+Indonesian Parliament passes mass organization law
+3.1941381615 ['from', 'cirque', 'show', 'vegas', 'during']
+1.42776304827 ['right', 'france', 'over', 'immunity', 'european']
+1.20353575946 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Radwanska beats Li in Wimbledon quarter-finals
+1.38129131284 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.0679554528 ['their', 'chinese', 'china', 'country', 'much']
+0.726728449511 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Sex trafficking bust rescues 46
+1.91074459963 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.509710757087 ['wall', 'missing', 'york', 'woman', 'news']
+0.288631263489 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Video claims monk beheaded in Syria
+0.785529677561 ['rocket', 'russian', 'russia', 'space', 'science']
+0.296856657195 ['their', 'chinese', 'china', 'country', 'much']
+0.156357800707 ['that', 'would', 'apple', 'iwatch', 'been']
+
+China: 9.8 tons of drugs seized
+4.31054871208 ['from', 'cirque', 'show', 'vegas', 'during']
+3.35698641038 ['their', 'chinese', 'china', 'country', 'much']
+1.67723534484 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+FB pulls ads from offensive pages
+3.50881732125 ['from', 'cirque', 'show', 'vegas', 'during']
+2.85549678654 ['that', 'would', 'apple', 'iwatch', 'been']
+0.0152539761911 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Can Zimmerman win over jurors?
+3.80210493883 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.75780820531 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+1.102495167 ['right', 'france', 'over', 'immunity', 'european']
+
+Why doesn't Hollywood trust women?
+7.09699246407 ['that', 'would', 'apple', 'iwatch', 'been']
+7.0119677604 ['have', 'vatican', 'bank', 'arrested', 'been']
+1.68464485012 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Kerry optimistic after Mideast talks
+7.83701646348 ['that', 'would', 'apple', 'iwatch', 'been']
+2.36502080054 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+2.15182370447 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Why Obama is right on climate change
+9.51370472934 ['obama', 'bush', 'africa', 'president', 'barack']
+7.5779267834 ['from', 'cirque', 'show', 'vegas', 'during']
+1.87961641181 ['right', 'france', 'over', 'immunity', 'european']
+
+AIDS-free generation 'within sight'
+1.99454373911 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.853242155173 ['wall', 'missing', 'york', 'woman', 'news']
+0.369413352473 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Egypt protesters: Resign or we march on palace
+10.0241929428 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+0.521718767625 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.47832569952 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Who is Mohamed Morsy?
+6.93977486592 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+0.821256132431 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.77297600699 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Opinion: Rage must lead to game plan
+6.7167937398 ['that', 'would', 'apple', 'iwatch', 'been']
+5.07789745468 ['their', 'chinese', 'china', 'country', 'much']
+3.52414868197 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Deadline pleases anti-Morsy camp
+3.86309583611 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+3.73439598017 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.256510571854 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+69 convicted in UAE overthrow plot
+12.9379502607 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+5.99152663034 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+2.50821715991 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+6.1 earthquake rattles Indonesia
+2.4601591321 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.672719636897 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.53327079373 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Israeli forces 'kill Palestinian man'
+2.61066402544 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.30614000317 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.07198986086 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Cash smuggling scandal explained
+3.07996411688 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.11276822695 ['right', 'france', 'over', 'immunity', 'european']
+0.080395910191 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Russian rocket explodes after liftoff
+18.2882304686 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.31085146323 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.99640011533 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Obama concludes Africa tour
+10.3708855709 ['obama', 'bush', 'africa', 'president', 'barack']
+2.20890944554 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.30675489974 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Military to aid U.S. wildfire fight
+7.66123330581 ['from', 'cirque', 'show', 'vegas', 'during']
+1.31870552548 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+0.637158568201 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Elite U.S. firefighter squad mourned
+0.752366431026 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.504911993988 ['their', 'chinese', 'china', 'country', 'much']
+0.479257204446 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+7 dead in attack on NATO suppliers
+9.53948141534 ['police', 'said', 'kabul', 'tuesday', 'attack']
+3.22923011329 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.249244919413 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Entrepreneurs bid adieu to France
+3.0378249377 ['right', 'france', 'over', 'immunity', 'european']
+1.07721632082 ['their', 'chinese', 'china', 'country', 'much']
+1.06403224305 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Lawsuit: End forced feedings at Gitmo
+3.92693862815 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.143055094136 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.0276047092918 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+U.S. PGA Tour to accept putter ban
+3.04517583753 ['from', 'cirque', 'show', 'vegas', 'during']
+1.04583076117 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+0.00876834209606 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+Tennis: Lisicki into Wimbledon semi
+1.48879918415 ['right', 'france', 'over', 'immunity', 'european']
+1.40857743347 ['wall', 'missing', 'york', 'woman', 'news']
+0.914382294212 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Media's royal baby watch heats up
+1.46640078149 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.18292541483 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.314113288238 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Kremlin: Snowden drops Russia bid
+8.72964606176 ['snowden', 'asylum', 'edward', 'russia', 'request']
+5.3213942713 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.09767221475 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+Edward Snowden blasts Obama
+6.05217597636 ['snowden', 'asylum', 'edward', 'russia', 'request']
+1.99450842955 ['obama', 'bush', 'africa', 'president', 'barack']
+1.94867997718 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Obama: All nations collect intelligence
+8.23187584438 ['obama', 'bush', 'africa', 'president', 'barack']
+3.47569597986 ['that', 'would', 'apple', 'iwatch', 'been']
+3.33128592996 ['right', 'france', 'over', 'immunity', 'european']
+
+Opinion: U.S. spying 'out of control'
+1.91334511075 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.85369805547 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.37301761159 ['world', 'girls', 'education', 'make', 'help']
+
+Aging China
+0.917769261019 ['their', 'chinese', 'china', 'country', 'much']
+3.75269340235e-07 ['from', 'cirque', 'show', 'vegas', 'during']
+1.2746321379e-38 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+Baby goes for a swim
+7.71147855974 ['their', 'chinese', 'china', 'country', 'much']
+0.000146917118159 ['world', 'girls', 'education', 'make', 'help']
+1.63762069731e-17 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Living the high life in New York
+2.58474094562 ['wall', 'missing', 'york', 'woman', 'news']
+0.50586698113 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+0.284260533107 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+India bans lingerie mannequins?
+0.295467106953 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.223579623488 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.21179120126 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Donut hybrid conquers Big Apple
+1.24629187641 ['wall', 'missing', 'york', 'woman', 'news']
+0.47958776886 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.4191341842 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Astronaut chats from space
+6.019515848 ['from', 'cirque', 'show', 'vegas', 'during']
+3.16964326523 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.73030785426 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Russian rocket explodes on liftoff
+13.8095343415 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+2.27779892741 ['rocket', 'russian', 'russia', 'space', 'science']
+0.0390322923161 ['right', 'france', 'over', 'immunity', 'european']
+
+Watch rocket break up after liftoff
+16.1972261075 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.24333569034 ['from', 'cirque', 'show', 'vegas', 'during']
+0.0159881425883 ['rocket', 'russian', 'russia', 'space', 'science']
+
+New Chinese law: Call Mom or else
+5.41676722479 ['their', 'chinese', 'china', 'country', 'much']
+2.03501140792 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.269776827314 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+
+Branson shares complaint letter
+3.44297818245 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.76457726745 ['world', 'girls', 'education', 'make', 'help']
+0.468275973616 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Bush: Ed Snowden 'damaged U.S.'
+2.6768450923 ['obama', 'bush', 'africa', 'president', 'barack']
+2.39719687008 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.965007885564 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+Zanzibar: A very cultural beach holiday
+0.817478026583 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.793818986663 ['world', 'girls', 'education', 'make', 'help']
+0.664880385349 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Assad cousin: Bashar has to go
+0.72322607934 ['their', 'chinese', 'china', 'country', 'much']
+0.502552352811 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+0.443763120152 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Apple files for 'iWatch' trademark
+10.2639282191 ['that', 'would', 'apple', 'iwatch', 'been']
+0.487748158618 ['wall', 'missing', 'york', 'woman', 'news']
+0.117148186615 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Gordon Brown on Malala's friend
+0.871043375391 ['world', 'girls', 'education', 'make', 'help']
+0.637640960305 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.462049211663 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Challenge to find asteroid threats
+1.5163420436 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.619054550204 ['their', 'chinese', 'china', 'country', 'much']
+0.558715841588 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Malala's friend reunites with her
+7.30906007803 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.65769208039 ['that', 'would', 'apple', 'iwatch', 'been']
+0.564845962441 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+iPad-run yacht: Is this the future?
+3.91519242441 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.896834588835 ['their', 'chinese', 'china', 'country', 'much']
+0.845984095031 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Pop-up hotels: Catch them if you can
+3.89183008343 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.46683969637 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.504327060741 ['obama', 'bush', 'africa', 'president', 'barack']
+
+How to win trust of baby ape
+3.46526225543 ['that', 'would', 'apple', 'iwatch', 'been']
+1.16166586534 ['world', 'girls', 'education', 'make', 'help']
+0.535322129011 ['their', 'chinese', 'china', 'country', 'much']
+
+Serena stunned in London
+2.88821763172 ['world', 'girls', 'education', 'make', 'help']
+1.60524395179 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.555720524631 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Firefox enters the smartphone fray
+0.301490621506 ['rocket', 'russian', 'russia', 'space', 'science']
+0.0814499937051 ['have', 'vatican', 'bank', 'arrested', 'been']
+1.1326436361e-109 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Kids capture life on the street
+1.33226964768 ['their', 'chinese', 'china', 'country', 'much']
+0.506662794529 ['wall', 'missing', 'york', 'woman', 'news']
+0.432571200856 ['world', 'girls', 'education', 'make', 'help']
+
+Iggy Pop: My life as a transformer
+3.31666231791 ['from', 'cirque', 'show', 'vegas', 'during']
+2.12619292185 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.00905138926 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+The 'Cronut' conquers NYC
+1.28282329837 ['wall', 'missing', 'york', 'woman', 'news']
+0.514628437478 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.432050409563 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Confederations Cup: 5 things we learned
+2.7999276831 ['that', 'would', 'apple', 'iwatch', 'been']
+2.40703065905 ['world', 'girls', 'education', 'make', 'help']
+0.226634803098 ['obama', 'bush', 'africa', 'president', 'barack']
+
+China magnate who's richer than Trump
+2.99347970453 ['their', 'chinese', 'china', 'country', 'much']
+0.388107377726 ['wall', 'missing', 'york', 'woman', 'news']
+0.387863864819 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Living the high life in New York City
+2.6073675203 ['wall', 'missing', 'york', 'woman', 'news']
+0.497051894581 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+0.293243115843 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+Would you like fries with that $3,600?
+3.99367007476 ['their', 'chinese', 'china', 'country', 'much']
+3.19179953955 ['that', 'would', 'apple', 'iwatch', 'been']
+2.62433036028 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+The world's craziest, messiest festivals
+8.60057019309 ['world', 'girls', 'education', 'make', 'help']
+4.4917253756 ['their', 'chinese', 'china', 'country', 'much']
+3.03578527318 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Haitian slum builds 'Garden of Eden'
+0.386741973791 ['world', 'girls', 'education', 'make', 'help']
+0.172964615663 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.136695596445 ['their', 'chinese', 'china', 'country', 'much']
+
+How Khmer empire just got bigger
+0.942190008421 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.656084665922 ['world', 'girls', 'education', 'make', 'help']
+0.0655524233221 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Dog helps kids with facial differences
+3.35602743008 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.19452045311 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.15124626249 ['their', 'chinese', 'china', 'country', 'much']
+
+Is the Middle East addicted to apps?
+0.702733315351 ['their', 'chinese', 'china', 'country', 'much']
+0.297182467661 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.219112270599 ['that', 'would', 'apple', 'iwatch', 'been']
+
+F1 rewriting rules to end tire chaos
+0.731789693875 ['their', 'chinese', 'china', 'country', 'much']
+0.352701806034 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+0.130585110597 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Ex-child bride: School changes lives
+4.60755587384 ['world', 'girls', 'education', 'make', 'help']
+0.285729485178 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.283955067488 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Egypt rages, but what's the new plan?
+5.84161787637 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+3.61328637967 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.191394245061 ['their', 'chinese', 'china', 'country', 'much']
+
+Prince or princess?
+1.72357081007 ['world', 'girls', 'education', 'make', 'help']
+1.54319042653 ['rocket', 'russian', 'russia', 'space', 'science']
+1.30100663457 ['right', 'france', 'over', 'immunity', 'european']
+
+Media watch heats up
+1.47032563873 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.12556043467 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.323323039371 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Heir for a new century?
+2.59679846728 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+2.57425379821 ['that', 'would', 'apple', 'iwatch', 'been']
+2.04857153954 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+iWatch
+9.79329827135 ['that', 'would', 'apple', 'iwatch', 'been']
+0.511290784699 ['wall', 'missing', 'york', 'woman', 'news']
+0.123944199343 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Egyptians vs. Morsy
+4.65182891293 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+4.15018809617 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.78936235691 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Russia rocket blast
+12.2800894197 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+2.92533608709 ['rocket', 'russian', 'russia', 'space', 'science']
+1.77020326986 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Snowden rips Obama
+7.16769494873 ['snowden', 'asylum', 'edward', 'russia', 'request']
+2.60050481861 ['from', 'cirque', 'show', 'vegas', 'during']
+2.10193667045 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Bush on Snowden
+9.33888104955 ['obama', 'bush', 'africa', 'president', 'barack']
+5.17444051095 ['snowden', 'asylum', 'edward', 'russia', 'request']
+3.89018829677 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Monk 'beheaded'
+0.448774199265 ['rocket', 'russian', 'russia', 'space', 'science']
+0.127532663123 ['from', 'cirque', 'show', 'vegas', 'during']
+0.127139591834 ['that', 'would', 'apple', 'iwatch', 'been']
+
+'Cirque' death
+10.0575809211 ['from', 'cirque', 'show', 'vegas', 'during']
+0.776072683082 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.340122776721 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+China 2.0?
+2.7581583325 ['their', 'chinese', 'china', 'country', 'much']
+1.0658113897 ['obama', 'bush', 'africa', 'president', 'barack']
+0.338961874436 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Cronuts
+1.26041482493 ['wall', 'missing', 'york', 'woman', 'news']
+0.493998921279 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.418806768879 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+From farm to fork and landfill
+3.0417641498 ['from', 'cirque', 'show', 'vegas', 'during']
+0.0757964014942 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.000626374983625 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+
+Overfished and under-protected
+5.3832565818 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.89261701456 ['world', 'girls', 'education', 'make', 'help']
+0.349752447656 ['wall', 'missing', 'york', 'woman', 'news']
+
+An end to global thirst is in sight
+4.608389772 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.84936944379 ['their', 'chinese', 'china', 'country', 'much']
+1.02589673477 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+
+The world's vanishing glaciers
+2.49216204044 ['world', 'girls', 'education', 'make', 'help']
+0.414638625312 ['obama', 'bush', 'africa', 'president', 'barack']
+0.143750179057 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Oceans: Eco-victim or savior?
+7.83712889069 ['their', 'chinese', 'china', 'country', 'much']
+2.61291921619 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.350956924327 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Island nations at risk
+2.77378853537 ['world', 'girls', 'education', 'make', 'help']
+0.208250210942 ['obama', 'bush', 'africa', 'president', 'barack']
+0.190222585788 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+How trees must adapt to drought
+5.03873383346 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.23527972925 ['that', 'would', 'apple', 'iwatch', 'been']
+2.09857152025 ['world', 'girls', 'education', 'make', 'help']
+
+How climate impacts food supply
+2.86779573621 ['that', 'would', 'apple', 'iwatch', 'been']
+1.99795922086 ['world', 'girls', 'education', 'make', 'help']
+0.230906632986 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Cousteau meets wetland wildlife
+0.49183184001 ['their', 'chinese', 'china', 'country', 'much']
+0.373867487085 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.0248850390947 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Ice melt speeding up, study finds
+3.98942846192 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.08604371956 ['that', 'would', 'apple', 'iwatch', 'been']
+2.23214838561 ['world', 'girls', 'education', 'make', 'help']
+
+Snowden seeks asylum in China
+9.01915565195 ['snowden', 'asylum', 'edward', 'russia', 'request']
+2.85356764627 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.2911107348 ['their', 'chinese', 'china', 'country', 'much']
+
+China clamps down on Xinjiang
+4.41209754645 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.0955303841 ['that', 'would', 'apple', 'iwatch', 'been']
+2.8568071592 ['their', 'chinese', 'china', 'country', 'much']
+
+Hong Kong makes Snowden film
+6.46234347634 ['snowden', 'asylum', 'edward', 'russia', 'request']
+4.00070041083 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.30083006068 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+World's largest building opens
+3.29901505387 ['their', 'chinese', 'china', 'country', 'much']
+2.528092384 ['world', 'girls', 'education', 'make', 'help']
+0.161578869499 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Anemic data raises growth fears
+2.98544556406 ['that', 'would', 'apple', 'iwatch', 'been']
+2.82515456326 ['from', 'cirque', 'show', 'vegas', 'during']
+1.33846496758 ['their', 'chinese', 'china', 'country', 'much']
+
+Chinese lap up French vineyards
+10.2678995882 ['their', 'chinese', 'china', 'country', 'much']
+5.56128339697 ['right', 'france', 'over', 'immunity', 'european']
+4.26214320338 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Malala's voice stronger, not silenced
+9.72995227668 ['world', 'girls', 'education', 'make', 'help']
+4.46137199243 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.04206078004 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Fighting for the 'throwaway' girls
+5.7001307467 ['world', 'girls', 'education', 'make', 'help']
+3.40864323427 ['that', 'would', 'apple', 'iwatch', 'been']
+1.07935286112 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Impact Your World: How to help
+24.2701748773 ['world', 'girls', 'education', 'make', 'help']
+0.062858392457 ['rocket', 'russian', 'russia', 'space', 'science']
+0.0025570448491 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Photos: Beyoncé rocks for girls education
+2.78677665635 ['world', 'girls', 'education', 'make', 'help']
+7.93418730619e-15 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.5512936733e-150 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Is it fate? Dog links 2 wounded vets
+3.25928466992 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.67325684772 ['that', 'would', 'apple', 'iwatch', 'been']
+1.82787401487 ['right', 'france', 'over', 'immunity', 'european']
+
+When cooking can kill
+2.81412206607 ['world', 'girls', 'education', 'make', 'help']
+0.844426721615 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+0.525311017835 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+'I'm not a welfare mom, I'm a soldier'
+0.00696533066989 ['rocket', 'russian', 'russia', 'space', 'science']
+0.00527650131527 ['that', 'would', 'apple', 'iwatch', 'been']
+0.00438665894102 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Wildlife's worst enemy? Us
+1.97398245401 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.577724499618 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.545420555582 ['world', 'girls', 'education', 'make', 'help']
+
+Troubled youth run 'old skool' bistro
+4.36464309881 ['their', 'chinese', 'china', 'country', 'much']
+3.08651878668 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.46815318628 ['world', 'girls', 'education', 'make', 'help']
+
+Pregnant and homeless: The real cost
+0.963835240995 ['their', 'chinese', 'china', 'country', 'much']
+0.580659657859 ['rocket', 'russian', 'russia', 'space', 'science']
+0.48053018973 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Pakistan bombings kill at least 47
+5.04776248559 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.10661584325 ['their', 'chinese', 'china', 'country', 'much']
+0.777958035019 ['world', 'girls', 'education', 'make', 'help']
+
+Tensions easing in South China Sea?
+3.83052751332 ['their', 'chinese', 'china', 'country', 'much']
+3.33198590569 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.03580857783 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Chinese astronauts return to Earth
+13.9051942819 ['their', 'chinese', 'china', 'country', 'much']
+2.64603769117 ['have', 'vatican', 'bank', 'arrested', 'been']
+1.8168060385 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Your solstice traditions
+9.40365746323 ['have', 'vatican', 'bank', 'arrested', 'been']
+1.78385331343 ['world', 'girls', 'education', 'make', 'help']
+6.07073311058e-05 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Summer solstice: It's all about sex
+3.88836494706 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.54558059787 ['that', 'would', 'apple', 'iwatch', 'been']
+1.51912903545 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Your most memorable moments
+3.56965259943 ['their', 'chinese', 'china', 'country', 'much']
+0.877520356437 ['world', 'girls', 'education', 'make', 'help']
+0.191329231071 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Special delivery for Baby Noor
+1.10637181604 ['world', 'girls', 'education', 'make', 'help']
+0.601357207964 ['their', 'chinese', 'china', 'country', 'much']
+0.536278009409 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Mumbai to ban racy mannequins
+0.305770164051 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.217541826493 ['that', 'would', 'apple', 'iwatch', 'been']
+0.128862712847 ['right', 'france', 'over', 'immunity', 'european']
+
+Inside Moscow 'no man's land'
+7.09976182608 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.74088689663 ['snowden', 'asylum', 'edward', 'russia', 'request']
+0.737525965012 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Girls flee war, find 'worse' in camp
+3.75616407083 ['world', 'girls', 'education', 'make', 'help']
+3.53650510139 ['their', 'chinese', 'china', 'country', 'much']
+3.07564577498 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+S. Africa's 'Born Free' generation
+2.71894748783 ['obama', 'bush', 'africa', 'president', 'barack']
+1.92394756075 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.30627806469 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Fighting for gay rights in China
+6.22623772404 ['their', 'chinese', 'china', 'country', 'much']
+3.15230205008 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.103493841707 ['rocket', 'russian', 'russia', 'space', 'science']
+
+The rise and fall of Julia Gillard
+1.3183541833 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.644145645825 ['wall', 'missing', 'york', 'woman', 'news']
+0.62590244298 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+With Egypt in limbo, schools suffer
+5.25140905249 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+3.21802965864 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.172955349995 ['world', 'girls', 'education', 'make', 'help']
+
+Brazil thriving, so what gives?
+0.494193838767 ['their', 'chinese', 'china', 'country', 'much']
+0.4666152827 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.270152702797 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Spinning statue stumps museum
+0.48438180444 ['their', 'chinese', 'china', 'country', 'much']
+0.357952779709 ['from', 'cirque', 'show', 'vegas', 'during']
+0.253165564175 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+New species excites 'twitchers'
+0.877412571989 ['rocket', 'russian', 'russia', 'space', 'science']
+0.79362287351 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.488287005642 ['their', 'chinese', 'china', 'country', 'much']
+
+Empty plane seat mocks media
+1.80986360056 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+1.05545300443 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.343142661418 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Jolie gives voice to Syria refugees
+1.43621973535 ['their', 'chinese', 'china', 'country', 'much']
+0.464289967413 ['wall', 'missing', 'york', 'woman', 'news']
+0.458532768641 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Palestinian wins 'Arab Idol'
+1.43390474055 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.16162757228 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.306402523523 ['world', 'girls', 'education', 'make', 'help']
+
+Geologist tastes prehistoric water
+3.72021139461 ['that', 'would', 'apple', 'iwatch', 'been']
+0.319446727171 ['wall', 'missing', 'york', 'woman', 'news']
+0.275403677297 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+A wedding amid the tear gas
+0.955872615459 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.276923723913 ['world', 'girls', 'education', 'make', 'help']
+0.141373610861 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Crash gives Aussie a French accent
+3.57113933304 ['with', 'bulger', 'boston', 'former', 'whitey']
+3.56090640931 ['that', 'would', 'apple', 'iwatch', 'been']
+1.63558838716 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Deadline looms for Egypt's Morsy
+7.78987856191 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+0.812116902244 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.354103250734 ['their', 'chinese', 'china', 'country', 'much']
+
+Going to school, instead of work
+1.09728305727 ['world', 'girls', 'education', 'make', 'help']
+0.319267846098 ['their', 'chinese', 'china', 'country', 'much']
+0.225108581405 ['wall', 'missing', 'york', 'woman', 'news']
+
+Girls, it's time to power the world
+9.26251792368 ['world', 'girls', 'education', 'make', 'help']
+0.0113447635585 ['obama', 'bush', 'africa', 'president', 'barack']
+8.68812410852e-06 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Things I wish I'd known at 15
+0.739022714692 ['world', 'girls', 'education', 'make', 'help']
+0.403310479932 ['from', 'cirque', 'show', 'vegas', 'during']
+0.34391221867 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Bush: Snowden damaged U.S.
+5.50253968172 ['snowden', 'asylum', 'edward', 'russia', 'request']
+3.61219874926 ['obama', 'bush', 'africa', 'president', 'barack']
+3.54537092499 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+New law: Visit parents or face jail?
+3.04250214855 ['from', 'cirque', 'show', 'vegas', 'during']
+0.630807058055 ['world', 'girls', 'education', 'make', 'help']
+0.410841324162 ['their', 'chinese', 'china', 'country', 'much']
+
+Street life seen through kids' eyes
+0.785432005726 ['wall', 'missing', 'york', 'woman', 'news']
+0.634796368993 ['their', 'chinese', 'china', 'country', 'much']
+0.539934989811 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Sports car veers into spectators
+0.876316773491 ['from', 'cirque', 'show', 'vegas', 'during']
+0.800370821825 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.62535022204 ['their', 'chinese', 'china', 'country', 'much']
+
+Q&A: Egypt on the brink
+12.6539850181 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+5.77478450802 ['their', 'chinese', 'china', 'country', 'much']
+1.40108407733 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Watch Russian rocket explode
+13.2198328092 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.94315230902 ['rocket', 'russian', 'russia', 'space', 'science']
+1.54563462207 ['from', 'cirque', 'show', 'vegas', 'during']
+
+How to nominate a CNN Hero
+3.25286570236 ['their', 'chinese', 'china', 'country', 'much']
+3.20690900189 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.36393793497 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Last year's top ten
+3.24659990928 ['their', 'chinese', 'china', 'country', 'much']
+0.374713634122 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.345003160019 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Snowden's asylum options dwindle
+11.0267821351 ['snowden', 'asylum', 'edward', 'russia', 'request']
+5.86615301751 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.98727568034 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+Unmanned Russian rocket explodes after liftoff
+18.8785057225 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.833245324954 ['from', 'cirque', 'show', 'vegas', 'during']
+0.370651773474 ['rocket', 'russian', 'russia', 'space', 'science']
+
+Europe demands answers about U.S. bugging claims
+2.41775685837 ['moscow', 'about', 'snowden', 'former', 'edward']
+1.98386037473 ['right', 'france', 'over', 'immunity', 'european']
+1.48470261856 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+46 women rescued in sex trafficking bust
+2.50403394462 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.500063226362 ['wall', 'missing', 'york', 'woman', 'news']
+0.349049199226 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Obama concludes Africa trip
+10.8412301209 ['obama', 'bush', 'africa', 'president', 'barack']
+2.23846040222 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.27158773301 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Group: Video shows monk's beheading in Syria
+0.814032742492 ['rocket', 'russian', 'russia', 'space', 'science']
+0.593809180143 ['their', 'chinese', 'china', 'country', 'much']
+0.141025532803 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Dozens convicted of plotting to overthrow UAE government
+15.0500933953 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+7.63854452603 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+2.2206493415 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Kerry optimistic about Mideast peace talks
+8.28091998961 ['that', 'would', 'apple', 'iwatch', 'been']
+2.33529746201 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.13175768331 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Make that 28: Croatia becomes newest EU member
+6.71356404996 ['that', 'would', 'apple', 'iwatch', 'been']
+4.31059572483 ['from', 'cirque', 'show', 'vegas', 'during']
+0.862581278322 ['world', 'girls', 'education', 'make', 'help']
+
+EU 'shocked' by U.S. spying report
+3.44483952689 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.98324099869 ['that', 'would', 'apple', 'iwatch', 'been']
+1.39055827289 ['right', 'france', 'over', 'immunity', 'european']
+
+Vatican official arrested
+11.9940572962 ['have', 'vatican', 'bank', 'arrested', 'been']
+1.80091825991 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+1.43605853894 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Berlusconi found guilty, gets 7 years
+3.61584608173 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.04882408056 ['wall', 'missing', 'york', 'woman', 'news']
+1.43757382205 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Ecuador to U.S.: Don't threaten us
+4.28185510788 ['snowden', 'asylum', 'edward', 'russia', 'request']
+3.62205574188 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.32924145652 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Poor, middle class unite in Brazil
+5.07922982269 ['their', 'chinese', 'china', 'country', 'much']
+3.62294736456 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.75139422606 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+4 arrested in DEA agent's slaying
+6.06985794044 ['have', 'vatican', 'bank', 'arrested', 'been']
+2.86839934025 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.582372920501 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Qatar emir transfers power to son
+4.57788883132 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.567069809132 ['right', 'france', 'over', 'immunity', 'european']
+0.324947910853 ['world', 'girls', 'education', 'make', 'help']
+
+Kerry casts doubt on Taliban talks
+3.83901107388 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.86282744183 ['police', 'said', 'kabul', 'tuesday', 'attack']
+1.80117856821 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Abbas accepts PM's resignation
+2.25585582768 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+1.75198360194 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.04713227716 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Zuma: Mandela's condition better
+3.00254184199 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.46289803277 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.19639205999 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+Infighting kills top Somali militant
+2.43862937063 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.693850280004 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.633399157046 ['their', 'chinese', 'china', 'country', 'much']
+
+Pistorius resumes 'low-key' training
+1.55570811954 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.588594718106 ['world', 'girls', 'education', 'make', 'help']
+0.518121609129 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+New planets might support life
+3.42668284486 ['that', 'would', 'apple', 'iwatch', 'been']
+1.20953711771 ['their', 'chinese', 'china', 'country', 'much']
+0.801485792665 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Ancient primate may be missing link
+3.32178944116 ['their', 'chinese', 'china', 'country', 'much']
+1.15454254221 ['wall', 'missing', 'york', 'woman', 'news']
+0.610810421298 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+
+It's not about Paula Deen, it's about us
+5.06803945958 ['moscow', 'about', 'snowden', 'former', 'edward']
+3.54037186865 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.807741573407 ['their', 'chinese', 'china', 'country', 'much']
+
+U.S. spying is out of control
+1.48579555016 ['their', 'chinese', 'china', 'country', 'much']
+0.644194148102 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.542360823242 ['news', 'giffords', 'ariz', 'gabrielle', 'fire']
+
+Find out what your doctor really thinks
+3.78397743622 ['their', 'chinese', 'china', 'country', 'much']
+0.88701272136 ['world', 'girls', 'education', 'make', 'help']
+0.357961393112 ['wall', 'missing', 'york', 'woman', 'news']
+
+On immigration, GOP offers fear
+1.09880535251 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.629654754233 ['that', 'would', 'apple', 'iwatch', 'been']
+0.429027591054 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Gridlock at the Supreme Court
+0.399322758206 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.0855034981967 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.00358365156402 ['world', 'girls', 'education', 'make', 'help']
+
+My late wife is thanking you, too
+0.0868601359388 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.0601362859137 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+0.0345626837035 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Can we forgive Paula Deen?
+3.81326901782 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.82661244292 ['from', 'cirque', 'show', 'vegas', 'during']
+0.342440781885 ['wall', 'missing', 'york', 'woman', 'news']
+
+Obama's right on climate change
+2.84404479132 ['obama', 'bush', 'africa', 'president', 'barack']
+2.11919003847 ['right', 'france', 'over', 'immunity', 'european']
+1.89513647749 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+Love or hate her, witness is a star
+5.70042953002 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+0.602975591713 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+0.57856151883 ['their', 'chinese', 'china', 'country', 'much']
+
+World watching U.S. on gay rights
+4.1002659293 ['world', 'girls', 'education', 'make', 'help']
+2.04767813296 ['right', 'france', 'over', 'immunity', 'european']
+0.30723879707 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+For gays, progress stunning, fast
+7.7894379998 ['that', 'would', 'apple', 'iwatch', 'been']
+4.11039848884 ['have', 'vatican', 'bank', 'arrested', 'been']
+1.06476080443 ['tuesday', 'government', 'reuters', 'minister', 'convicted']
+
+Court got it wrong on gay marriage
+4.02903511527 ['with', 'bulger', 'boston', 'former', 'whitey']
+1.32364552971 ['wall', 'missing', 'york', 'woman', 'news']
+1.1402574833 ['moscow', 'about', 'snowden', 'former', 'edward']
+
+Father: 'Words can't describe the loss'
+0.795101531416 ['have', 'vatican', 'bank', 'arrested', 'been']
+0.792946926386 ['from', 'cirque', 'show', 'vegas', 'during']
+0.572372696312 ['world', 'girls', 'education', 'make', 'help']
+
+Western U.S. seared by heat
+0.990208498907 ['their', 'chinese', 'china', 'country', 'much']
+0.296579807047 ['world', 'girls', 'education', 'make', 'help']
+0.104115871702 ['egypt', 'deadline', 'morsy', 'president', 'mohamed']
+
+Gitmo lawsuit: End forced feedings
+3.92695976287 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.143072565179 ['police', 'said', 'kabul', 'tuesday', 'attack']
+0.0276081810498 ['snowden', 'asylum', 'edward', 'russia', 'request']
+
+Cirque performer killed at show
+11.0496992018 ['from', 'cirque', 'show', 'vegas', 'during']
+0.421815946579 ['their', 'chinese', 'china', 'country', 'much']
+0.0265680454015 ['police', 'said', 'kabul', 'tuesday', 'attack']
+
+Funny to fit: Man sheds 155 pounds
+4.44108874167 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.07034658618 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.650404872452 ['their', 'chinese', 'china', 'country', 'much']
+
+Kid with brain injury meets hero
+3.77431791829 ['with', 'bulger', 'boston', 'former', 'whitey']
+0.250946574933 ['rocket', 'russian', 'russia', 'space', 'science']
+0.122136530163 ['world', 'girls', 'education', 'make', 'help']
+
+Deen's accuser: 'This has never been about the N-word'
+5.53229215006 ['moscow', 'about', 'snowden', 'former', 'edward']
+4.49152466189 ['that', 'would', 'apple', 'iwatch', 'been']
+1.3676472018 ['from', 'cirque', 'show', 'vegas', 'during']
+
+Kremlin: Snowden has given up on plan to stay in Russia
+10.0265503828 ['snowden', 'asylum', 'edward', 'russia', 'request']
+6.49108371758 ['have', 'vatican', 'bank', 'arrested', 'been']
+3.93115243314 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+
+BART strike slams San Francisco economy
+3.28036446647 ['that', 'would', 'apple', 'iwatch', 'been']
+0.620955550851 ['rocket', 'russian', 'russia', 'space', 'science']
+0.137633437963 ['obama', 'bush', 'africa', 'president', 'barack']
+
+Texas official defends the Alamo -- from boxing promoters, rappers
+3.3075673115 ['from', 'cirque', 'show', 'vegas', 'during']
+3.20489456926 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.84660639885 ['that', 'would', 'apple', 'iwatch', 'been']
+
+Third suspect in killing of Aaron Hernandez's friend to be extradited
+2.32812905555 ['right', 'france', 'over', 'immunity', 'european']
+2.16062438568 ['moscow', 'about', 'snowden', 'former', 'edward']
+0.85623908675 ['with', 'bulger', 'boston', 'former', 'whitey']
+
+Pals of mom in pot case help in $500,000 bail
+3.50735650335 ['from', 'cirque', 'show', 'vegas', 'during']
+2.1455700972 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+1.29095069592 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+
+Five airline 'near misses' prompt call for changes in safety rules
+4.64058548004 ['from', 'cirque', 'show', 'vegas', 'during']
+0.601022574484 ['obama', 'bush', 'africa', 'president', 'barack']
+0.309777255244 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Brother of Colorado Sen. Mark Udall missing in Rocky Mountains
+12.2875087038 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+0.787700516862 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.135712943014 ['have', 'vatican', 'bank', 'arrested', 'been']
+
+Classes canceled to deal with race issues
+3.69551049056 ['with', 'bulger', 'boston', 'former', 'whitey']
+2.08773594202 ['after', 'rocket', 'russian', 'liftoff', 'unmanned']
+0.313015131863 ['wall', 'missing', 'york', 'woman', 'news']
+
+Watch Friday's Show!
+6.9336444413 ['from', 'cirque', 'show', 'vegas', 'during']
+1.41221543616 ['world', 'girls', 'education', 'make', 'help']
+0.821701804409 ['zimmerman', 'news', 'martin', 'george', 'trayvon']
+
+Can you pass the Newsquiz?
+0.363280423637 ['that', 'would', 'apple', 'iwatch', 'been']
+0.337393839585 ['alzheimer', 'dozens', 'case', 'charged', 'abuse']
+0.171950423878 ['brother', 'udall', 'mark', 'missing', 'wyoming']
+
